@@ -1,0 +1,68 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="j18J5jSwAouDRuNngv8G">
+    <mxGraphModel dx="1042" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A_Gy_929c4KinX6c80zG-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;gradientDirection=east;fillStyle=dots;fontFamily=Comic Sans MS;textDirection=ltr;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;glass=1;shadow=0;" value="&lt;h1&gt;My Daily Routine&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="300" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A_Gy_929c4KinX6c80zG-6" parent="1" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#006658;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#5C5C5C;fillColor=#21C0A5;" value="" vertex="1">
+          <mxGeometry height="100" width="60" x="384" y="100" as="geometry" />
+        </mxCell>
+        <object label="&lt;span style=&quot;font-size: 20px;&quot;&gt;WAKE UP&amp;nbsp;&lt;/span&gt;" placeholders="1" id="A_Gy_929c4KinX6c80zG-8">
+          <mxCell parent="1" style="ellipse;shape=cloud;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fillColor=#f8cecc;autosizeText=0;html=1;textShadow=1;textDirection=ltr;fontSize=84;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;flipH=1;legacyAnchorPoints=0;flipV=1;horizontal=1;shadow=1;strokeColor=#b85450;" vertex="1">
+            <mxGeometry height="110" width="170" x="329" y="190" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="A_Gy_929c4KinX6c80zG-9" parent="1" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#006658;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#5C5C5C;fillColor=#21C0A5;" value="" vertex="1">
+          <mxGeometry height="60" width="100" x="240" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="A_Gy_929c4KinX6c80zG-10" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#006658;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#5C5C5C;fillColor=#21C0A5;" value="" vertex="1">
+          <mxGeometry height="60" width="100" x="490" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="A_Gy_929c4KinX6c80zG-12" parent="1" style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#36393d;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#cce5ff;" value="GETTING FRESHEN UP AND EXERCISE" vertex="1">
+          <mxGeometry height="150" width="130" x="110" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="A_Gy_929c4KinX6c80zG-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#36393d;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#cce5ff;" value="BATHING AND GETTING READY FOR SCHOOL" vertex="1">
+          <mxGeometry height="150" width="130" x="590" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="A_Gy_929c4KinX6c80zG-15" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;direction=south;fillColor=#b0e3e6;strokeColor=#0e8088;" value="" vertex="1">
+          <mxGeometry height="50" width="100" x="605" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="A_Gy_929c4KinX6c80zG-16" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fad9d5;strokeColor=#ae4132;" value="STUDYING&amp;nbsp;&lt;div&gt;IN&amp;nbsp;&lt;/div&gt;&lt;div&gt;SCHOOL&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="105" x="550" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="A_Gy_929c4KinX6c80zG-17" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fad9d5;strokeColor=#ae4132;" value="COMING&lt;div&gt;BACK&amp;amp;&lt;/div&gt;&lt;div&gt;RELAX FOR&amp;nbsp;&lt;/div&gt;&lt;div&gt;10MINS.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="65" width="95" x="660" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="A_Gy_929c4KinX6c80zG-20" parent="1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;strokeColor=#FF0000;" value="HAVING LUNCH AND SLEEP FOR 1 HOUR" vertex="1">
+          <mxGeometry height="60" width="100" x="675" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="A_Gy_929c4KinX6c80zG-21" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="A_Gy_929c4KinX6c80zG-20" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655" y="435" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A_Gy_929c4KinX6c80zG-23" parent="1" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#b0e3e6;strokeColor=#0e8088;" value="" vertex="1">
+          <mxGeometry height="30" width="100" x="575" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="A_Gy_929c4KinX6c80zG-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};treeFolding=1;treeMoving=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fad9d5;strokeColor=#ae4132;" value="DOING MY HOMEWORK FOR ABOUT AN HOUR&lt;div&gt;&amp;nbsp;AND THEN GOING OUT TO PLAY&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="135" x="440" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="A_Gy_929c4KinX6c80zG-26" parent="1" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#b0e3e6;strokeColor=#0e8088;" value="" vertex="1">
+          <mxGeometry height="50" width="30" x="490" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="A_Gy_929c4KinX6c80zG-27" parent="1" style="shape=switch;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fad9d5;strokeColor=#ae4132;" value="DINNER" vertex="1">
+          <mxGeometry height="80" width="90" x="462.5" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="A_Gy_929c4KinX6c80zG-29" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;direction=west;fillColor=#b0e3e6;strokeColor=#0e8088;" value="" vertex="1">
+          <mxGeometry height="30" width="100" x="384" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="A_Gy_929c4KinX6c80zG-31" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fad9d5;strokeColor=#ae4132;" value="&lt;h1&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;SLEEP!ZZZ&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="105" width="184" x="200" y="330" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
